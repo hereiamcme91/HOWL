@@ -514,7 +514,7 @@
           "items": [
             {
               "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur",
-              "maxQuantityPerCycle": 50,
+              "maxQuantityPerCycle": 1,
               "maxQuantityInTerminal": 100,
               "quantityPerDino": 10,
               "alternateSelectMode": 0,
@@ -538,7 +538,7 @@
           "items": [
             {
               "bpPath": "/Game/Genesis/Dinos/SpaceWhale/PrimalItemResource_Ambergris.PrimalItemResource_Ambergris",
-              "maxQuantityPerCycle": 50,
+              "maxQuantityPerCycle": 1,
               "maxQuantityInTerminal": 100,
               "quantityPerDino": 1,
               "alternateSelectMode": 0,
