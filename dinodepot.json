@@ -394,7 +394,7 @@
           "items": [
             {
               "bpPath": "/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Hesperonis_Golden.PrimalItemConsumable_Egg_Hesperonis_Golden",
-              "maxQuantityPerCycle": 1,
+              "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 50,
               "quantityPerDino": 1,
               "alternateSelectMode": 0,
